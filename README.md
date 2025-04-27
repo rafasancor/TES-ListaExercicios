@@ -62,7 +62,8 @@ Permite ao usuário adicionar tarefas a uma lista e marcá-las como concluídas.
 
 ## 📄 Documentação
 
-A documentação completa do projeto está disponível no repositório como um arquivo PDF com o nome:  **TES-documentacao.pdf**
+A documentação completa do projeto está disponível no repositório como um arquivo PDF com o nome:
+**TES-documentacao.pdf**
 
 Ela também pode ser acessada online pelo Google Docs no link abaixo:
 
