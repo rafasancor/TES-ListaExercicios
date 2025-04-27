@@ -57,3 +57,13 @@ Gera um número aleatório entre 1 e 100. O usuário tenta adivinhar, e o progra
 
 ### 10. `ListaDeTarefas.cs`
 Permite ao usuário adicionar tarefas a uma lista e marcá-las como concluídas. Ao final, exibe todas as tarefas e seu respectivo status (pendente ou concluída).
+
+---
+
+## 📄 Documentação
+
+A documentação completa do projeto está disponível no repositório como um arquivo PDF com o nome:  **TES-documentacao.pdf**
+
+Ela também pode ser acessada online pelo Google Docs no link abaixo:
+
+🔗 [Clique aqui para acessar a documentação online](https://docs.google.com/document/d/12qS0U8ztg4zwQbFvEnY4Onil24eszaBLSbcjd1Awdy0/edit?usp=drivesdk)
